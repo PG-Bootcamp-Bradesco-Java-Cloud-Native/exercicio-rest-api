@@ -8,4 +8,4 @@ spring:
     database: POSTGRESQL
     open-in-view: false
     hibernate:
-      ddl-auto: create-drop
+      ddl-auto: auto
